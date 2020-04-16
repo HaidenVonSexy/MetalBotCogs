@@ -1,0 +1,8 @@
+{
+    "NAME" : "MetalBotCogs",
+    "AUTHOR" : ["HaidenVonSexy"],
+    "SHORT" : "Cogs for metalbot.",
+    "DESCRIPTION" : "Cogs for metalbot.",
+    "INSTALL_MSG" : "Thanks for installing!",
+    "REQUIREMENTS": ["requests"]
+}
